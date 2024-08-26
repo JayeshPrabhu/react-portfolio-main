@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Retinal OCT Image Segmentation with U-Net",
+    "imageSrc": "projects/project.png",
+    "description": "Uses a U-Net deep learning model to segment retinal layers in OCT images, improving diagnostic accuracy and efficiency.",
+    "skills": ["Deep Learning", "U-Net", "Python", "TensorFlow", "Keras"]
+  },
+  {
+    "title": "Food Delivery App with MERN Stack",
+    "imageSrc": "projects/project.png",
+    "description": "A full-stack food delivery app using the MERN stack (MongoDB, Express.js, React, Node.js) to create a scalable and efficient web application.",
+    "skills": ["React", "Express", "Node.js", "MongoDB"]
+  },
+  {
+    "title": "RPA Automatic Certificate Generator",
+    "imageSrc": "projects/project.png",
+    "description": "An RPA tool to automatically create and issue certificates, handling data extraction, certificate generation, and distribution without manual effort.",
+    "skills": ["RPA", "Automation", "Data Processing"]
+  }
+]
